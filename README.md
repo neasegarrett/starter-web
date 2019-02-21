@@ -6,6 +6,7 @@ extra text
 ## Introduction 
 
 Introduction placeholder
+more text 
 
 ## Purpose
 
