@@ -11,10 +11,12 @@ more text
 ## Purpose
 
 Sample website with plenty of files for demos
+purpose extra text 
 
 ## Deployment 
 
 Deployment placeholder text
+extra deployment text 
 
 ### Deployment Subsection
 
