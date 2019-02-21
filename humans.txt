@@ -12,6 +12,6 @@
 	extra text here
 
 # TECHNOLOGY COLOPHON
-
+	more values
     HTML5, CSS3
     jQuery, Modernizr
