@@ -8,6 +8,7 @@ Even more lines of text for rebasing example, then more changes from myfeature b
 
 Introduction placeholder
 more text 
+further updates for stash ex
 
 ## Purpose
 
